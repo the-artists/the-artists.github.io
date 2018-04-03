@@ -18,7 +18,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## Mockups
 * Job Board, a listing board for all available quests:
-<img class="ui medium left circular image" src="../images/Create_job.png">
+![alt text](../images/Create_job.png")
 
 * User Profile, profile page to show assigned quests and skills:
 <img class="ui medium left circular image" src="../images/Front_page.png">
