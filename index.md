@@ -18,10 +18,10 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## Mockups
 * Job Board, a listing board for all available quests:
-![alt text](../images/Create_job.png")
+![alt text](https://github.com/the-artists/the-artists.github.io/blob/master/images/Front_page.png)
 
 * User Profile, profile page to show assigned quests and skills:
-<img class="ui medium left circular image" src="../images/Front_page.png">
+![alt text](https://github.com/the-artists/the-artists.github.io/blob/master/images/User_Page.png)
 
 * Job Create, page to create listing for quest. Should include pay, title, deadline, description, location, contact information, and skills/resources required:
-<img class="ui medium left circular image" src="../images/User_Page.png">
+![alt text](https://github.com/the-artists/the-artists.github.io/blob/master/images/Create_job.png)
