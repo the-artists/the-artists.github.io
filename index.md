@@ -25,3 +25,10 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 * Job Create, page to create listing for quest. Should include pay, title, deadline, description, location, contact information, and skills/resources required:
 ![Create Job](/doc/Create_job.png)
+
+
+## Team Members
+We are all Computer Engineering Majors.
+* Barry Abe - Maui Local, fun-loving guy.
+* Ky Ho - Mango lover, anime enthusiast.
+* Sean Teramae - Plays too much Hearthstone.
