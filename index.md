@@ -30,5 +30,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ## Team Members
 We are all Computer Engineering Majors.
 * Barry Abe - Maui Local, fun-loving guy.
-* Ky Ho - Mango lover, anime enthusiast.
+* Ky Ho - Mango lover, Love Live! enthusiast.
 * Sean Teramae - Plays too much Hearthstone.
