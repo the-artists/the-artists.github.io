@@ -28,6 +28,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ![Create Job](/doc/Create_job.png)
 
 ## Milestone 1
+This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/1)
 This Milestone started on April 3rd, 2018 and ended on April 12, 2018.
 
 For Milestone 1, we focused on building the front-end templates to be filled later by our back-end database. These pages include the home page, the Quest create page, and the user profile page. 
@@ -45,6 +46,9 @@ Screenshots of the template pages are found below:
 
 * [Policy](https://questboards.meteorapp.com/policy):
 ![Policy Page](/doc/policy.PNG)
+
+## Milestone 2
+This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/2)
 
 ## Team Members
 We are all Computer Engineering Majors.
