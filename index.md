@@ -1,4 +1,5 @@
 # About QuestBoards
+Questboards is deployed here: [QuestBoards](https://questboards.meteorapp.com)
 
 ## Goals
 * Create a simple method for users to get paid to do short term jobs.
@@ -25,3 +26,23 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 * Job Create, page to create listing for quest. Should include pay, title, deadline, description, location, contact information, and skills/resources required:
 ![Create Job](/doc/Create_job.png)
+
+## Milestone 1
+This Milestone started on April 3rd, 2018 and ended on April 12, 2018.
+
+For Milestone 1, we focused on building the front-end templates to be filled later by our back-end database. These pages include the home page, the Quest create page, and the user profile page. 
+
+Screenshots of the template pages are found below:
+
+* [Home Page](https://questboards.meteorapp.com):
+![Front Page](/doc/home.PNG)
+
+* [User Page](https://questboards.meteorapp.com/profile):
+![User Page](/doc/user.PNG)
+
+* [Create Quest](https://questboards.meteorapp.com/add):
+![Create Quest](/doc/createQuest.png)
+
+* [Policy](https://questboards.meteorapp.com/policy):
+![Policy Page](/doc/policy.PNG)
+
