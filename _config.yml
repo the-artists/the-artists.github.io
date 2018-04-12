@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: The Artists
+description: A team of wacky individuals.
+github:
+  repository_url: https://github.com/the-artists
