@@ -1,4 +1,11 @@
+## The Artists
+From our humble beginnings as college freshman to our divine status as college juniors, we the artists have been working together to tackle extreme scenarios and homework questions. We are all Computer Engineering majors and plan to continue our studies further in the field of Software Engineering. Our team members along with our taglines are as follows:
+* Barry Abe - Maui Local, fun-loving guy.
+* Ky Ho - Mango lover, Love Live! enthusiast.
+* Sean Teramae - Plays too much Hearthstone.
+
 # About QuestBoards
+Questboards is an application designed to further mobilize the able student body for short term 'Quests' that benefit both the community and a student's paycheck. Our initial thought was to create the application as a Quest system, similar to the video games that we all play. In our application, users, or adventurers, are able to place and take on Quests. These Quests are defined by and paid for by other users on the site. Quests would be an easy way to get quick tasks done.
 Questboards is deployed here: [QuestBoards](https://questboards.meteorapp.com)
 
 ## Goals
@@ -17,15 +24,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Push notifications
 * Venmo/Apple Pay support
 
-## Mockups
-* Job Board, a listing board for all available quests:
-![Front Page](/doc/Front_page.png)
-
-* User Profile, profile page to show assigned quests and skills:
-![User Page](/doc/User_Page.png)
-
-* Job Create, page to create listing for quest. Should include pay, title, deadline, description, location, contact information, and skills/resources required:
-![Create Job](/doc/Create_job.png)
+## Milestone 2
+This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/2)
 
 ## Milestone 1
 This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/1)
@@ -47,11 +47,12 @@ Screenshots of the template pages are found below:
 * [Policy](https://questboards.meteorapp.com/policy):
 ![Policy Page](/doc/policy.PNG)
 
-## Milestone 2
-This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/2)
+## Mockups
+* Job Board, a listing board for all available quests:
+![Front Page](/doc/Front_page.png)
 
-## Team Members
-We are all Computer Engineering Majors.
-* Barry Abe - Maui Local, fun-loving guy.
-* Ky Ho - Mango lover, Love Live! enthusiast.
-* Sean Teramae - Plays too much Hearthstone.
+* User Profile, profile page to show assigned quests and skills:
+![User Page](/doc/User_Page.png)
+
+* Job Create, page to create listing for quest. Should include pay, title, deadline, description, location, contact information, and skills/resources required:
+![Create Job](/doc/Create_job.png)
