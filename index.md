@@ -4,9 +4,53 @@ From our humble beginnings as college freshman to our divine status as college j
 * Ky Ho - Mango lover, Love Live! enthusiast.
 * Sean Teramae - Plays too much Hearthstone.
 
-# About QuestBoards
+# Overview
 Questboards is an application designed to further mobilize the able student body for short term 'Quests' that benefit both the community and a student's paycheck. Our initial thought was to create the application as a Quest system, similar to the video games that we all play. In our application, users, or adventurers, are able to place and take on Quests. These Quests are defined by and paid for by other users on the site. Quests would be an easy way to get quick tasks done.
 Questboards is deployed here: [QuestBoards](https://questboards.meteorapp.com)
+
+# User Guide
+1. When first landing on the QuestBoards Home Page, the user is greeted with a welcoming two option screen, where the user can either search for available Quests or create a listing. If the user is not logged in and tries to create a listing, they will be prompted to log in.
+![Front Page](/doc/home2.PNG)
+
+2. If the user chooses to search for an available Quest, they are taken to the Quest listings page, which gives a rundown of all available Quests and pending Quests. Pending Quests are waiting for the owner to select the user for the Quest. On this page, the user is able to click on a Quest to learn more details about the Quest.
+![Listing](/doc/listing.PNG)
+
+3. If the user chooses to create a Quest, they are taken to the Quest Create page. The Quest create page will then prompt the owner to post the appropriate Quest details.
+![Create Quest](/doc/createQuest.png)
+
+## Community Feedback 
+*Names Hidden*
+* Needs some work to find users for my Quest listing.
+* I think it's good but could use improvements in the Quest information page.
+* The user should be able to search for available Quests based on keyword.
+* Policy page could be removed from the navbar and put into the footer.
+* Good work on building the support for Quests but I need to be able to edit my profile.
+
+## Developer Guide
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, [download a copy of QuestBoards](https://github.com/the-artists/quest-boards/archive/master.zip), or clone it using git.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+### Modifying the System
+For this project, the majority of custom pages lies under the imports/ directory. In the imports/ directory, the api/ folder holds the code necessary to populate the front-end website with appropriate data. The startup/ folder contains instructions on what to do when the server is first initialized. The ui/ folder holds the custom React components that were used to construct the application. 
+
+To implement new test data, you can modify the config/settings.development.json file to prepare new test cases. Simply follow the already defined structure under defaultQuests.
 
 ## Goals
 * Create a simple method for users to get paid to do short term jobs.
