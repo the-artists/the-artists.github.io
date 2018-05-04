@@ -6,9 +6,11 @@ From our humble beginnings as college freshman to our divine status as college j
 
 # Overview
 Questboards is an application designed to further mobilize the able student body for short term 'Quests' that benefit both the community and a student's paycheck. Our initial thought was to create the application as a Quest system, similar to the video games that we all play. In our application, users, or adventurers, are able to place and take on Quests. These Quests are defined by and paid for by other users on the site. Quests would be an easy way to get quick tasks done.
+
+# Application Found Here!
 Questboards is deployed here: [QuestBoards](https://questboards.meteorapp.com)
 
-# User Guide
+# Guided Tour
 1. When first landing on the QuestBoards Home Page, the user is greeted with a welcoming two option screen, where the user can either search for available Quests or create a listing. If the user is not logged in and tries to create a listing, they will be prompted to log in.
 ![Front Page](/doc/home2.PNG)
 
@@ -18,7 +20,22 @@ Questboards is deployed here: [QuestBoards](https://questboards.meteorapp.com)
 3. If the user chooses to create a Quest, they are taken to the Quest Create page. The Quest create page will then prompt the owner to post the appropriate Quest details.
 ![Create Quest](/doc/createQuest.png)
 
-## Community Feedback 
+4. On the Quest info page, the user can see what the Quest entails. If the user chooses to, they can hit the request button at the bottom of the page to submit their candidacy for the Quest. If you are the Quest owner, you can change the details of the Quest by hitting the Edit Quest! button at the top of the page.
+![Quest Info](/doc/questInfo.PNG)
+
+## Milestone 3
+This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/3)
+This Milestone started on April 24, 2018 and ended on May 4, 2018.
+This Milestone mainly focused on adding the final bits of functionality to create a working application for assigning users to a Quest. Through this milestone, users are now able to request access for Quests and Quest progress is now tracked automatically.
+
+#### Milestone 3 Feedback
+* Good work setting up Quests, need more vector graphics.
+* If I was using this site, I would want a 3rd party to oversee communications.
+* How would the user be able to protest unpaid Quests?
+* Adding more information to Profile could be useful.
+* Support for notifications is a must.
+
+## Initial User Study
 *Names Hidden*
 * Needs some work to find users for my Quest listing.
 * I think it's good but could use improvements in the Quest information page.
@@ -70,10 +87,14 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## Milestone 2
 This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/2)
+This Milestone started on April 12, 2018 and ended on April 24, 2018.
 
+For Milestone 2, we focused on implementing the back-end and linking the data necessary for functionality on the front-end side. We continued to develop new front-end components during this time as well.
+
+Screenshots of the template pages are found below:
 ## Milestone 1
 This Milestone can be found here: [Github](https://github.com/the-artists/quest-boards/projects/1)
-This Milestone started on April 3rd, 2018 and ended on April 12, 2018.
+This Milestone started on April 3, 2018 and ended on April 12, 2018.
 
 For Milestone 1, we focused on building the front-end templates to be filled later by our back-end database. These pages include the home page, the Quest create page, and the user profile page. 
 
