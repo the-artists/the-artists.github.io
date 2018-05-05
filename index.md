@@ -37,6 +37,7 @@ This Milestone mainly focused on adding the final bits of functionality to creat
 
 ## Initial User Study
 *Names Hidden*
+This study was conducted by surveying a group of friends that attend the University of Hawaii. A computer was given to them and we asked what they thought of the site. A summary is found below.
 * Needs some work to find users for my Quest listing.
 * I think it's good but could use improvements in the Quest information page.
 * The user should be able to search for available Quests based on keyword.
